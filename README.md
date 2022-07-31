@@ -1,9 +1,15 @@
-# MovieInfo App
+<h1 align="center">Movie Info App</h1>
 
-JavaScript/jQuery app that fetches movie data from the OMDb API
+# Table of Contents
 
-## Usage
+JavaScript/jQuery app that fetches movie data from the [OMDb API](https://www.omdbapi.com/)
 
-```bash
-Run index.html on any server
-```
+## Instructions
+
+- Open index.html on any server
+- `composer.json` and `index.php` are included for static hosting on heroku using Composer PHP app.
+
+<h1 align="center">
+<img src="images/search.png"  height="auto" width="100%">
+<img src="images/result.png"  height="auto" width="100%">
+</h1>
