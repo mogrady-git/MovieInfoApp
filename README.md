@@ -7,7 +7,7 @@ JavaScript/jQuery app that fetches movie data from the [OMDb API](https://www.om
 ## Instructions
 
 - Open index.html on any server
-- `composer.json` and `index.php` are included for static hosting on heroku using Composer PHP app.
+- `composer.json` and `index.php` are included for static hosting on heroku using Composer PHP buildpack.
 
 <h1 align="center">
 <img src="images/search.png"  height="auto" width="100%">
